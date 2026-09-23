@@ -1,0 +1,8 @@
+name: facefit-assistant
+metadata:
+  template: facefit-assistant@1.0
+services:
+  web:
+    project: .
+    language: js
+    host: staticwebapp
